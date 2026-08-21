@@ -46,7 +46,7 @@ No external packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CinematicRollingText.git
+git clone https://github.com/karanangane2304/Cinematic_Rolling_Text_Terminal
 ```
 
 Go into the project directory:
@@ -148,7 +148,7 @@ Then:
 Eventually:
 
 ```text
-                Hello, World!
+            Hello, World!
 ```
 
 ## 🤝 Contributing
