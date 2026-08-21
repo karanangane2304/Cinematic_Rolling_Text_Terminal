@@ -52,7 +52,7 @@ git clone https://github.com/karanangane2304/Cinematic_Rolling_Text_Terminal
 Go into the project directory:
 
 ```bash
-cd CinematicRollingText
+cd Cinematic_Rolling_Text_Terminal
 ```
 
 ## ▶️ Usage
