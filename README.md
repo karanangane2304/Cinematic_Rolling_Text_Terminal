@@ -46,7 +46,7 @@ No external packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/karanangane2304/Cinematic_Rolling_Text_Terminal
+git clone https://github.com/karanangane2304/Cinematic_Rolling_Text_Terminal.git
 ```
 
 Go into the project directory:
